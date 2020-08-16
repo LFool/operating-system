@@ -8,4 +8,5 @@
   * [4. 操作系统的运行机制](untitled-1/4.-cao-zuo-xi-tong-de-yun-hang-ji-zhi.md)
   * [5. 中断 & 异常](untitled-1/5.-zhong-duan-yi-chang.md)
   * [6. 系统调用](untitled-1/6.-xi-tong-tiao-yong.md)
+  * [7. 操作系统的体系结构](untitled-1/7.-cao-zuo-xi-tong-de-ti-xi-jie-gou.md)
 
