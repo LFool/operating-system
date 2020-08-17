@@ -12,4 +12,6 @@
 * [第二章：进程管理](di-er-zhang-jin-cheng-guan-li/README.md)
   * [1. 进程的概念 & 组成 & 特征](di-er-zhang-jin-cheng-guan-li/1.-jin-cheng-de-gai-nian-zu-cheng-te-zheng.md)
   * [2. 进程的状态 & 转换](di-er-zhang-jin-cheng-guan-li/2.-jin-cheng-de-zhuang-tai-zhuan-huan.md)
+  * [3. 进程控制](di-er-zhang-jin-cheng-guan-li/3.-jin-cheng-kong-zhi.md)
+  * [4. 进程通信](di-er-zhang-jin-cheng-guan-li/4.-jin-cheng-tong-xin.md)
 
