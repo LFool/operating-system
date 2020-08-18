@@ -15,4 +15,5 @@
   * [3. 进程控制](di-er-zhang-jin-cheng-guan-li/3.-jin-cheng-kong-zhi.md)
   * [4. 进程通信](di-er-zhang-jin-cheng-guan-li/4.-jin-cheng-tong-xin.md)
   * [5. 线程](di-er-zhang-jin-cheng-guan-li/5.-xian-cheng.md)
+  * [6. 进程的调度](di-er-zhang-jin-cheng-guan-li/6.-jin-cheng-de-tiao-du.md)
 
