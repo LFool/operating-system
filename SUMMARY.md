@@ -18,5 +18,6 @@
   * [6. 进程的调度](di-er-zhang-jin-cheng-guan-li/6.-jin-cheng-de-tiao-du.md)
   * [7. 进程同步 & 互斥](di-er-zhang-jin-cheng-guan-li/7.-jin-cheng-tong-bu-hu-chi.md)
   * [8. 死锁](di-er-zhang-jin-cheng-guan-li/8.-si-suo.md)
-* [第三章：内存管理](di-san-zhang-nei-cun-guan-li.md)
+* [第三章：内存管理](di-san-zhang-nei-cun-guan-li/README.md)
+  * [1. 内存的基础知识](di-san-zhang-nei-cun-guan-li/1.-nei-cun-de-ji-chu-zhi-shi.md)
 
