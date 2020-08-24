@@ -30,7 +30,8 @@
   * [3. 文件的物理结构](di-si-zhang-wen-jian-guan-li/3.-wen-jian-de-wu-li-jie-gou.md)
   * [4. 文件的目录结构](di-si-zhang-wen-jian-guan-li/4.-wen-jian-de-mu-lu-jie-gou.md)
   * [5. 空闲分区管理](di-si-zhang-wen-jian-guan-li/5.-kong-xian-fen-qu-guan-li.md)
-  * [6. 文件共享](di-si-zhang-wen-jian-guan-li/6.-wen-jian-gong-xiang.md)
-  * [7. 文件保护](di-si-zhang-wen-jian-guan-li/7.-wen-jian-bao-hu.md)
-  * [8. 磁盘管理](di-si-zhang-wen-jian-guan-li/8.-ci-pan-guan-li.md)
+  * [6. 文件的基本操作](di-si-zhang-wen-jian-guan-li/6.-wen-jian-de-ji-ben-cao-zuo.md)
+  * [7. 文件共享](di-si-zhang-wen-jian-guan-li/6.-wen-jian-gong-xiang.md)
+  * [8. 文件保护](di-si-zhang-wen-jian-guan-li/7.-wen-jian-bao-hu.md)
+  * [9. 磁盘管理](di-si-zhang-wen-jian-guan-li/8.-ci-pan-guan-li.md)
 
