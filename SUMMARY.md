@@ -24,4 +24,13 @@
   * [3. 内存空间的扩充](di-san-zhang-nei-cun-guan-li/3.-nei-cun-kong-jian-de-kuo-chong.md)
   * [4. 地址转换](di-san-zhang-nei-cun-guan-li/4.-di-zhi-zhuan-huan.md)
   * [5. 存储保护](di-san-zhang-nei-cun-guan-li/5.-cun-chu-bao-hu.md)
+* [第四章：文件管理](di-si-zhang-wen-jian-guan-li/README.md)
+  * [1. 文件的基本概念 & 属性](di-si-zhang-wen-jian-guan-li/1.-wen-jian-de-ji-ben-gai-nian-shu-xing.md)
+  * [2. 文件的逻辑结构](di-si-zhang-wen-jian-guan-li/2.-wen-jian-de-luo-ji-jie-gou.md)
+  * [3. 文件的物理结构](di-si-zhang-wen-jian-guan-li/3.-wen-jian-de-wu-li-jie-gou.md)
+  * [4. 文件的目录结构](di-si-zhang-wen-jian-guan-li/4.-wen-jian-de-mu-lu-jie-gou.md)
+  * [5. 空闲分区管理](di-si-zhang-wen-jian-guan-li/5.-kong-xian-fen-qu-guan-li.md)
+  * [6. 文件共享](di-si-zhang-wen-jian-guan-li/6.-wen-jian-gong-xiang.md)
+  * [7. 文件保护](di-si-zhang-wen-jian-guan-li/7.-wen-jian-bao-hu.md)
+  * [8. 磁盘管理](di-si-zhang-wen-jian-guan-li/8.-ci-pan-guan-li.md)
 
